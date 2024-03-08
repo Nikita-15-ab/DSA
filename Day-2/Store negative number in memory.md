@@ -6,7 +6,10 @@
 
 
 Steps to store it-
+
 a) Ignore -ive sign
+
 b) Convert number into binary
+
 c) Take 2's complement
 
